@@ -1,0 +1,36 @@
+QuestionNo,Question,AnswerOption
+,,
+1,"Q1) What does pip stand for python?
+a) Preferred Installer Python
+b) Preferred Installation Program
+c) Preferred Installer Program
+d) Preferred installation python",c
+2,"Q2)What are the values of the following Python expressions?
+
+ 2**(3**2)
+ (2**3)**2
+ 2**3**2
+a) 512, 64, 512
+b) 512, 64, 64
+c) 64, 64, 512
+d) 64, 512, 64",a
+3,"Q3)What is the difference between a function and a method in Python?
+
+
+A) Functions are defined within classes, while methods are defined outside classes.
+B) Functions can have optional arguments, while methods cannot.
+C) Functions are not reusable, while methods are.
+D) Methods are functions that are bound to objects or classes.",d
+4,"Q4)LIST = [""Joey"", ""Doesnt"", ""Share""]
+List.append(""Food"")
+print(List)  WHAT WILL BE THE OUTPUT ?????                A) [""Joey"",""Doesnt"",""Share"",""Food""]   B)""Joey"",""Doesnt"",""Share"",""Food""     C) [""Joey Doesnt Share Food""]     D) None of the Above",d
+5,"Q5)Which of these is the definition for packages in Python?
+a) A set of main modules
+b) A folder of python modules
+c) A number of files containing Python definitions and statements
+d) A set of programs making use of Python modules  e) Both c and d",b
+,,
+,,
+,,
+9,,
+10,,
